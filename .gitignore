@@ -1,3 +1,7 @@
 # CSV files with pricing data
 life-happens-you-get-deals.csv
 *.csv
+
+# Claude Code instructions
+CLAUDE.md
+.claude/
